@@ -1,0 +1,15 @@
+#################  nomes de arquivos literais exemplo:
+
+#  arqTest      # ignora o arquivo (ou diretório) arqTest
+
+#  *.log        # ignora todos os arquivos com extensão .log
+
+#  arq*         # ignora todos os arquivos iniciados com arq
+
+#  ?rd          # ignora todos os arquivos não importando o primeiro caractere, mas que possua rd na sequencia
+
+#  **/dirTest   # ignora todos os diretorios de nome dirTest
+
+#  !saída.log   # NÃO ignora o arquivo saída.log
+
+node_modules/
